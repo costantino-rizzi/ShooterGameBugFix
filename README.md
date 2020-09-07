@@ -1,6 +1,8 @@
 # ShooterGameBugFix
 Bug fixing from the first exercise
-Due to the project large size and to avoid the upload of the same unmodified files, only the Blueprint folder has been pushed, the complete project can be found at this link: https://drive.google.com/drive/folders/19ES-xUBSY8oRoJAjSb5sgKsxgOK6Qkfm?usp=sharing
+
+Due to the project large size and to avoid the upload of the same unmodified files, only the Blueprint folder has been pushed, the complete project can be found at this [link](https://drive.google.com/drive/folders/19ES-xUBSY8oRoJAjSb5sgKsxgOK6Qkfm?usp=sharing)
+
 
 1. Wall jump: force on Z axis increased from 500 to 1000
 
